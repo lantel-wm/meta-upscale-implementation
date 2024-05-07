@@ -7,8 +7,12 @@ Paper link: https://arxiv.org/abs/1903.00875
 ## Requirements
 
 python packages: torch, basicsr, and other essentials
+
 software: CUDA
+
 hardware: NVUDIA GPU
+
+
 
 
 ## Algorithm
