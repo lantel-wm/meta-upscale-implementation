@@ -10,7 +10,7 @@ python packages: torch, basicsr, and other essentials
 
 software: CUDA
 
-hardware: NVUDIA GPU
+hardware: NVIDIA GPU
 
 
 
